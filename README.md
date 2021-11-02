@@ -1,4 +1,4 @@
-## Oiii eu sou Jirlan Souza, desenvolvedor de software e técnico em Automação industrial!
+## Oi eu sou Jirlan Souza, desenvolvedor de software e técnico em Automação industrial!
 <div align="center">
   <a href="https://github.com/jirlansouza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jirlansouza&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
